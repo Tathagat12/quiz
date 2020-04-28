@@ -1,0 +1,17 @@
+*{
+	margin:0;
+	padding: 0;
+}
+.roshan
+{
+	background-color: yellow;
+	border-radius: 50%;
+}
+img
+{
+	border-radius: 50%;
+}
+.quiz-form
+{
+	font-family: 'Baloo Tamma 2', cursive;
+}
